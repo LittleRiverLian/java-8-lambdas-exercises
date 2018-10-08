@@ -13,6 +13,6 @@ public class Question2 {
                        .reduce(0L, Long::sum)
                        .intValue();
         
-        //return (int) artists.stream().flatMap(artist -> artist.getMembers()).count();111
+        //return (int) artists.stream().flatMap(artist -> artist.getMembers()).count();111 2222
     }
 }
